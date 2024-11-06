@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=28&center=true&vCenter=true&width=1000&lines=Hy,+I'm+Fábio+Lopes;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=28&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Fábio+Lopes;)](https://git.io/typing-svg)
 
 
 ---

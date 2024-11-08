@@ -38,8 +38,8 @@
 
 <div align="center" width="100%">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiolopes021&theme=dark&hide_border=false" alt="fabiolopes021" />
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiolopes021&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=false" alt="fabiolopes021" />  
-  <img height="200em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolopes021&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="fabiolopes021" />
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiolopes021&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true" alt="fabiolopes021" />  
+  <img height="200em" padding="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolopes021&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_border=false" alt="fabiolopes021" />
 </div>
 
 ---
